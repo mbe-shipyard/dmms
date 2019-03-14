@@ -2,7 +2,7 @@ Distributed Model Management System (DMMS)
 ==========================================
 |License| |Documentation Status|
 
-The Distributed Model Management System (DMMS) is a distributed graph database and model management system for Model-Based Systems Engineering (MBSE) that uses a low latency, scalable, byzantine fault tolerant (BFT) consensus based blockchain protocol.
+The Distributed Model Management System (DMMS) is a serverless, peer-to-peer, blockchain-compatible, distributed graph database and model management system for Model-Based Systems Engineering (MBSE).
 
 .. |Documentation Status| image:: https://readthedocs.org/projects/dmms/badge/?version=latest
    :target: https://dmms.readthedocs.io/en/latest/?badge=latest
